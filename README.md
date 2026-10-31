@@ -1,4 +1,4 @@
-# Uplift Targeting on 14M Users (work in progress)
+# Persuadable: Uplift Targeting and A/B Testing on 14M Users
 
 Which users should see an ad? Instead of targeting the users most likely to visit, this project estimates the
 causal effect of the ad for each user (uplift) and targets the persuadable ones, then checks the result on a
